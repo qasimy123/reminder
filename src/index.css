@@ -1,0 +1,88 @@
+.App {
+   
+   padding-top:20px;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+
+    
+}
+.App-title { 
+    
+    font-size:30px;
+    text-align:center;
+    color: #fff;
+    font-weight: bolder;
+    font-variant: small-caps;
+    
+}
+
+input {
+    margin:5px;
+}
+
+.reminder-form {
+    padding:5px;
+}
+
+.list-group-item{
+    margin-top: 10px;
+}
+
+
+.list-item {
+    display: inline-block; 
+    
+    
+    
+}
+.delete-button{
+    float: right;
+    padding-right: 5px;
+    
+}
+
+.list-date {
+    
+  
+  padding-left: 20px;
+    
+    
+}
+
+.delete-button{
+    
+    margin-top: 25px;
+    font-size: 15px;
+    
+}
+
+
+.delete-button:hover{
+    
+   
+    font-weight: bold;
+    cursor:pointer;
+    color:red;
+    opacity: 0.4;
+}
+
+.reminder{
+    font-size:20px;
+    font-weight: bold;
+}
+
+.jumbotron{
+    
+background: rgba(90,220,255,1);
+
+   
+   padding-left: 50px;
+   padding-right: 50px;
+   border-radius: 10px;
+    
+    
+}
+
+
+
